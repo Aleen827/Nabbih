@@ -1,6 +1,5 @@
 # Nabbih
 مشروع تطبيق نبّه لمراقبة استهلاك الكهرباء
-```html
 <!DOCTYPE html>
 <html lang="ar">
 <head>
@@ -109,5 +108,4 @@
     });
   </script>
 </body>
-</html>
-```
+</html
